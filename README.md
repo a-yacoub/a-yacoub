@@ -1,4 +1,4 @@
-# Hi, I'm an AI Automation Engineer
+# Hi, I'm Ash Yacoub, an AI Automation Engineer
 
 I help businesses integrate **AI automation into their daily operations**.
 
