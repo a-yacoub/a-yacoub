@@ -7,6 +7,7 @@ My focus is building systems that don’t just look impressive — they **save t
 My work sits at the intersection of **business strategy and engineering**.
 
 Some days I'm mapping operational workflows with founders and teams.  
+
 Other days I'm building **AI voice agents, automation pipelines, and scalable CRM systems**.
 
 ---
