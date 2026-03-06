@@ -1,6 +1,6 @@
-# 👋 Hi, I'm an AI Automation Engineer
+# Hi, I'm an AI Automation Engineer
 
-🚀 I help businesses integrate **AI automation into their daily operations**.
+I help businesses integrate **AI automation into their daily operations**.
 
 My focus is building systems that don’t just look impressive — they **save teams time, reduce costs, and create new ways of working.**
 
